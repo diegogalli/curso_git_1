@@ -1,1 +1,1 @@
-# curso_git_1
+# Curso de git e GitHub - Basico ao Avancado
